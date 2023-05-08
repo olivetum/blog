@@ -1,9 +1,9 @@
 
 ---
-author: Sat Naing
+author: Olivetum
 pubDatetime: 2022-09-23T15:22:00Z
-title: Adding new posts in AstroPaper theme
-postSlug: adding-new-posts-in-astropaper-theme
+title: Test post
+postSlug: test
 featured: true
 draft: false
 tags:
