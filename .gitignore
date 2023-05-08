@@ -1,3 +1,6 @@
+# ides and others
+.vscode/
+.husky/
 # build output
 dist/
 .output/
